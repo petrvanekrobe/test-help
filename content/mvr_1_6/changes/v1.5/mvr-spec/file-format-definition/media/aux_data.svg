@@ -1,0 +1,847 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="55.567833cm"
+   height="40.528717cm"
+   viewBox="-4267 -1 1110.332 804.11844"
+   version="1.1"
+   id="svg3993"
+   sodipodi:docname="aux_data.svg"
+   inkscape:version="1.2.2 (b0a8486541, 2022-12-01)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs3997" />
+  <sodipodi:namedview
+     id="namedview3995"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="cm"
+     showgrid="false"
+     inkscape:zoom="0.36028369"
+     inkscape:cx="527.36221"
+     inkscape:cy="1008.9272"
+     inkscape:window-width="1920"
+     inkscape:window-height="1035"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg3993" />
+  <g
+     id="g451"
+     transform="translate(-4937.048,-141.1233)">
+    <rect
+       style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:2;stroke-opacity:1"
+       x="671.04797"
+       y="177.007"
+       width="148.60001"
+       height="56"
+       id="rect431" />
+    <text
+       font-size="16px"
+       style="font-style:normal;font-weight:700;font-family:sans-serif;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
+       x="745.34802"
+       y="196.007"
+       id="text433">AUXData</text>
+    <text
+       font-size="11.2px"
+       style="font-style:italic;font-weight:normal;font-family:sans-serif;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
+       x="745.34802"
+       y="211.507"
+       id="text435">Allowed Count: 0</text>
+    <text
+       font-size="11.2px"
+       style="font-style:italic;font-weight:normal;font-family:sans-serif;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
+       x="745.34802"
+       y="225.507"
+       id="text437">or 1</text>
+    <rect
+       style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:2;stroke-opacity:1"
+       x="671.04797"
+       y="233.007"
+       width="148.60001"
+       height="68"
+       id="rect439" />
+    <text
+       font-size="12.8px"
+       style="font-style:normal;font-weight:normal;font-family:monospace;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
+       x="674.04797"
+       y="249.407"
+       id="text441">+Symdef</text>
+    <text
+       font-size="12.8px"
+       style="font-style:normal;font-weight:normal;font-family:monospace;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
+       x="674.04797"
+       y="265.40701"
+       id="text443">+Position</text>
+    <text
+       font-size="12.8px"
+       style="font-style:normal;font-weight:normal;font-family:monospace;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
+       x="674.04797"
+       y="281.40701"
+       id="text445">+MappingDefinition</text>
+    <text
+       font-size="12.8px"
+       style="font-style:normal;font-weight:normal;font-family:monospace;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
+       x="674.04797"
+       y="297.40701"
+       id="text447">+Class</text>
+    <rect
+       style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:2;stroke-opacity:1"
+       x="671.04797"
+       y="301.00699"
+       width="148.60001"
+       height="8"
+       id="rect449" />
+  </g>
+  <g
+     id="g479"
+     transform="translate(-4937.048,-141.1233)">
+    <rect
+       style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:2;stroke-opacity:1"
+       x="681.90198"
+       y="421.836"
+       width="125.5"
+       height="56"
+       id="rect459" />
+    <text
+       font-size="16px"
+       style="font-style:normal;font-weight:700;font-family:sans-serif;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
+       x="744.65198"
+       y="440.836"
+       id="text461">Symdef</text>
+    <text
+       font-size="11.2px"
+       style="font-style:italic;font-weight:normal;font-family:sans-serif;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
+       x="744.65198"
+       y="456.336"
+       id="text463">Allowed Count: 0</text>
+    <text
+       font-size="11.2px"
+       style="font-style:italic;font-weight:normal;font-family:sans-serif;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
+       x="744.65198"
+       y="470.336"
+       id="text465">or any</text>
+    <rect
+       style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:2;stroke-opacity:1"
+       x="681.90198"
+       y="477.836"
+       width="125.5"
+       height="36"
+       id="rect467" />
+    <text
+       font-size="12.8px"
+       style="font-style:normal;font-weight:normal;font-family:monospace;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
+       x="684.90198"
+       y="494.23599"
+       id="text469">+Geometry3D</text>
+    <text
+       font-size="12.8px"
+       style="font-style:normal;font-weight:normal;font-family:monospace;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
+       x="684.90198"
+       y="510.23599"
+       id="text471">+Symbol</text>
+    <rect
+       style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:2;stroke-opacity:1"
+       x="681.90198"
+       y="513.836"
+       width="125.5"
+       height="36"
+       id="rect473" />
+    <text
+       font-size="12.8px"
+       style="font-style:normal;font-weight:normal;font-family:monospace;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
+       x="684.90198"
+       y="530.23602"
+       id="text475">+name(): String</text>
+    <text
+       font-size="12.8px"
+       style="font-style:normal;font-weight:normal;font-family:monospace;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
+       x="684.90198"
+       y="546.23602"
+       id="text477">+uuid(): UUID</text>
+  </g>
+  <g
+     id="g485"
+     transform="translate(-4937.048,-141.1233)">
+    <polyline
+       style="fill:none;stroke:#000000;stroke-width:2;stroke-dasharray:8;stroke-opacity:1"
+       points="745.348,310.015 745.348,361.422 744.652,361.422 744.652,414.123 "
+       id="polyline481" />
+    <polyline
+       style="fill:none;stroke:#000000;stroke-width:2;stroke-opacity:1"
+       points="739.652,401.475 744.652,417.475 749.652,401.475 "
+       id="polyline483" />
+  </g>
+  <g
+     id="g501"
+     transform="translate(-4937.048,-141.1233)">
+    <rect
+       style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:2;stroke-opacity:1"
+       x="743.75201"
+       y="725.10199"
+       width="125.5"
+       height="28"
+       id="rect487" />
+    <text
+       font-size="16px"
+       style="font-style:normal;font-weight:700;font-family:sans-serif;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
+       x="806.50201"
+       y="744.10199"
+       id="text489">Symbol</text>
+    <rect
+       style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:2;stroke-opacity:1"
+       x="743.75201"
+       y="753.10199"
+       width="125.5"
+       height="20"
+       id="rect491" />
+    <text
+       font-size="12.8px"
+       style="font-style:normal;font-weight:normal;font-family:monospace;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
+       x="746.75201"
+       y="769.50201"
+       id="text493">+Matrix</text>
+    <rect
+       style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:2;stroke-opacity:1"
+       x="743.75201"
+       y="773.10199"
+       width="125.5"
+       height="36"
+       id="rect495" />
+    <text
+       font-size="12.8px"
+       style="font-style:normal;font-weight:normal;font-family:monospace;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
+       x="746.75201"
+       y="789.50201"
+       id="text497">+uuid(): UUID</text>
+    <text
+       font-size="12.8px"
+       style="font-style:normal;font-weight:normal;font-family:monospace;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
+       x="746.75201"
+       y="805.50201"
+       id="text499">+symdef(): UUID</text>
+  </g>
+  <g
+     id="g507"
+     transform="translate(-4937.048,-141.1233)">
+    <polyline
+       style="fill:none;stroke:#000000;stroke-width:2;stroke-dasharray:8;stroke-opacity:1"
+       points="744.652,550.844 744.652,633.47 806.502,633.47 806.502,717.392 "
+       id="polyline503" />
+    <polyline
+       style="fill:none;stroke:#000000;stroke-width:2;stroke-opacity:1"
+       points="801.502,704.744 806.502,720.744 811.502,704.744 "
+       id="polyline505" />
+  </g>
+  <g
+     id="g521"
+     transform="translate(-4937.048,-141.1233)">
+    <rect
+       style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:2;stroke-opacity:1"
+       x="948.48401"
+       y="681.77802"
+       width="171.7"
+       height="28"
+       id="rect509" />
+    <text
+       font-size="16px"
+       style="font-style:normal;font-weight:700;font-family:sans-serif;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
+       x="1034.33"
+       y="700.77802"
+       id="text511">Geometry3D</text>
+    <rect
+       style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:2;stroke-opacity:1"
+       x="948.48401"
+       y="709.77802"
+       width="171.7"
+       height="20"
+       id="rect513" />
+    <text
+       font-size="12.8px"
+       style="font-style:normal;font-weight:normal;font-family:monospace;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
+       x="951.48401"
+       y="726.17798"
+       id="text515">+Matrix: 3x3 Matrix</text>
+    <rect
+       style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:2;stroke-opacity:1"
+       x="948.48401"
+       y="729.77802"
+       width="171.7"
+       height="20"
+       id="rect517" />
+    <text
+       font-size="12.8px"
+       style="font-style:normal;font-weight:normal;font-family:monospace;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
+       x="951.48401"
+       y="746.17798"
+       id="text519">+fileName(): FileName</text>
+  </g>
+  <g
+     id="g527"
+     transform="translate(-4937.048,-141.1233)">
+    <polyline
+       style="fill:none;stroke:#000000;stroke-width:2;stroke-dasharray:8;stroke-opacity:1"
+       points="744.652,550.844 744.652,611.807 1034.33,611.807 1034.33,674.064 "
+       id="polyline523" />
+    <polyline
+       style="fill:none;stroke:#000000;stroke-width:2;stroke-opacity:1"
+       points="1029.33,661.417 1034.33,677.417 1039.33,661.417 "
+       id="polyline525" />
+  </g>
+  <g
+     id="g545"
+     transform="translate(-4937.048,-141.1233)">
+    <rect
+       style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:2;stroke-opacity:1"
+       x="1150.1801"
+       y="138.269"
+       width="125.5"
+       height="56"
+       id="rect529" />
+    <text
+       font-size="16px"
+       style="font-style:normal;font-weight:700;font-family:sans-serif;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
+       x="1212.9301"
+       y="157.269"
+       id="text531">Position</text>
+    <text
+       font-size="11.2px"
+       style="font-style:italic;font-weight:normal;font-family:sans-serif;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
+       x="1212.9301"
+       y="172.769"
+       id="text533">Allowed Count: 0</text>
+    <text
+       font-size="11.2px"
+       style="font-style:italic;font-weight:normal;font-family:sans-serif;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
+       x="1212.9301"
+       y="186.769"
+       id="text535">or any</text>
+    <rect
+       style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:2;stroke-opacity:1"
+       x="1150.1801"
+       y="194.269"
+       width="125.5"
+       height="8"
+       id="rect537" />
+    <rect
+       style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:2;stroke-opacity:1"
+       x="1150.1801"
+       y="202.269"
+       width="125.5"
+       height="36"
+       id="rect539" />
+    <text
+       font-size="12.8px"
+       style="font-style:normal;font-weight:normal;font-family:monospace;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
+       x="1153.1801"
+       y="218.66901"
+       id="text541">+uuid(): UUID</text>
+    <text
+       font-size="12.8px"
+       style="font-style:normal;font-weight:normal;font-family:monospace;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
+       x="1153.1801"
+       y="234.66901"
+       id="text543">+name(): String</text>
+  </g>
+  <g
+     id="g551"
+     transform="translate(-4937.048,-141.1233)">
+    <polyline
+       style="fill:none;stroke:#000000;stroke-width:2;stroke-dasharray:8;stroke-opacity:1"
+       points="820.528,243.007 991.698,243.007 991.698,188.269 1142.48,188.269 "
+       id="polyline547" />
+    <polyline
+       style="fill:none;stroke:#000000;stroke-width:2;stroke-opacity:1"
+       points="1129.83,193.269 1145.83,188.269 1129.83,183.269 "
+       id="polyline549" />
+  </g>
+  <g
+     id="g577"
+     transform="translate(-4937.048,-141.1233)">
+    <rect
+       style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:2;stroke-opacity:1"
+       x="1117.76"
+       y="419.39801"
+       width="176.39999"
+       height="56"
+       id="rect553" />
+    <text
+       font-size="16px"
+       style="font-style:normal;font-weight:700;font-family:sans-serif;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
+       x="1205.96"
+       y="438.39801"
+       id="text555">MappingDefinition</text>
+    <text
+       font-size="11.2px"
+       style="font-style:italic;font-weight:normal;font-family:sans-serif;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
+       x="1205.96"
+       y="453.89801"
+       id="text557">Allowed Count: 0</text>
+    <text
+       font-size="11.2px"
+       style="font-style:italic;font-weight:normal;font-family:sans-serif;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
+       x="1205.96"
+       y="467.89801"
+       id="text559">or any</text>
+    <rect
+       style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:2;stroke-opacity:1"
+       x="1117.76"
+       y="475.39801"
+       width="176.39999"
+       height="68"
+       id="rect561" />
+    <text
+       font-size="12.8px"
+       style="font-style:normal;font-weight:normal;font-family:monospace;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
+       x="1120.76"
+       y="491.798"
+       id="text563">+SizeX</text>
+    <text
+       font-size="12.8px"
+       style="font-style:normal;font-weight:normal;font-family:monospace;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
+       x="1120.76"
+       y="507.798"
+       id="text565">+SizeY</text>
+    <text
+       font-size="12.8px"
+       style="font-style:normal;font-weight:normal;font-family:monospace;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
+       x="1120.76"
+       y="523.79797"
+       id="text567">+Source</text>
+    <text
+       font-size="12.8px"
+       style="font-style:normal;font-weight:normal;font-family:monospace;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
+       x="1120.76"
+       y="539.79797"
+       id="text569">+ScaleHandling</text>
+    <rect
+       style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:2;stroke-opacity:1"
+       x="1117.76"
+       y="543.39801"
+       width="176.39999"
+       height="36"
+       id="rect571" />
+    <text
+       font-size="12.8px"
+       style="font-style:normal;font-weight:normal;font-family:monospace;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
+       x="1120.76"
+       y="559.79797"
+       id="text573">+name(): String</text>
+    <text
+       font-size="12.8px"
+       style="font-style:normal;font-weight:normal;font-family:monospace;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
+       x="1120.76"
+       y="575.79797"
+       id="text575">+uuid(): UUID</text>
+  </g>
+  <g
+     id="g595"
+     transform="translate(-4937.048,-141.1233)">
+    <rect
+       style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:2;stroke-opacity:1"
+       x="1153.73"
+       y="271.892"
+       width="110.1"
+       height="56"
+       id="rect579" />
+    <text
+       font-size="16px"
+       style="font-style:normal;font-weight:700;font-family:sans-serif;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
+       x="1208.78"
+       y="290.892"
+       id="text581">Class</text>
+    <text
+       font-size="11.2px"
+       style="font-style:italic;font-weight:normal;font-family:sans-serif;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
+       x="1208.78"
+       y="306.392"
+       id="text583">Allowed Count: 0</text>
+    <text
+       font-size="11.2px"
+       style="font-style:italic;font-weight:normal;font-family:sans-serif;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
+       x="1208.78"
+       y="320.392"
+       id="text585">or any</text>
+    <rect
+       style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:2;stroke-opacity:1"
+       x="1153.73"
+       y="327.892"
+       width="110.1"
+       height="8"
+       id="rect587" />
+    <rect
+       style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:2;stroke-opacity:1"
+       x="1153.73"
+       y="335.892"
+       width="110.1"
+       height="36"
+       id="rect589" />
+    <text
+       font-size="12.8px"
+       style="font-style:normal;font-weight:normal;font-family:monospace;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
+       x="1156.73"
+       y="352.29199"
+       id="text591">+uuid(): UUID</text>
+    <text
+       font-size="12.8px"
+       style="font-style:normal;font-weight:normal;font-family:monospace;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
+       x="1156.73"
+       y="368.29199"
+       id="text593">+name(): name</text>
+  </g>
+  <g
+     id="g601"
+     transform="translate(-4937.048,-141.1233)">
+    <polyline
+       style="fill:none;stroke:#000000;stroke-width:2;stroke-dasharray:8;stroke-opacity:1"
+       points="820.649,243.007 966.724,243.007 966.724,321.892 1146.04,321.892 "
+       id="polyline597" />
+    <polyline
+       style="fill:none;stroke:#000000;stroke-width:2;stroke-opacity:1"
+       points="1133.39,326.892 1149.39,321.892 1133.39,316.892 "
+       id="polyline599" />
+  </g>
+  <g
+     id="g1217"
+     transform="translate(-4937.048,-141.1233)">
+    <rect
+       style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:2;stroke-opacity:1"
+       x="754.48401"
+       y="859.30798"
+       width="110.1"
+       height="28"
+       id="rect1207" />
+    <text
+       font-size="16px"
+       style="font-style:normal;font-weight:700;font-family:sans-serif;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
+       x="809.534"
+       y="878.30798"
+       id="text1209">Matrix</text>
+    <rect
+       style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:2;stroke-opacity:1"
+       x="754.48401"
+       y="887.30798"
+       width="110.1"
+       height="8"
+       id="rect1211" />
+    <rect
+       style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:2;stroke-opacity:1"
+       x="754.48401"
+       y="895.30798"
+       width="110.1"
+       height="20"
+       id="rect1213" />
+    <text
+       font-size="12.8px"
+       style="font-style:normal;font-weight:normal;font-family:monospace;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
+       x="757.48401"
+       y="911.70801"
+       id="text1215">+3x3 Matrix()</text>
+  </g>
+  <g
+     id="g1223"
+     transform="translate(-4937.048,-141.1233)">
+    <polyline
+       style="fill:none;stroke:#000000;stroke-width:2;stroke-dasharray:8;stroke-opacity:1"
+       points="806.502,810.107 806.502,830.204 809.534,830.204 809.534,851.596 "
+       id="polyline1219" />
+    <polyline
+       style="fill:none;stroke:#000000;stroke-width:2;stroke-opacity:1"
+       points="804.534,838.948 809.534,854.948 814.534,838.948 "
+       id="polyline1221" />
+  </g>
+  <g
+     id="g1235"
+     transform="translate(-4937.048,-141.1233)">
+    <rect
+       style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:2;stroke-opacity:1"
+       x="984.34198"
+       y="819.66803"
+       width="110.1"
+       height="28"
+       id="rect1225" />
+    <text
+       font-size="16px"
+       style="font-style:normal;font-weight:700;font-family:sans-serif;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
+       x="1039.39"
+       y="838.66803"
+       id="text1227">Matrix</text>
+    <rect
+       style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:2;stroke-opacity:1"
+       x="984.34198"
+       y="847.66803"
+       width="110.1"
+       height="8"
+       id="rect1229" />
+    <rect
+       style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:2;stroke-opacity:1"
+       x="984.34198"
+       y="855.66803"
+       width="110.1"
+       height="20"
+       id="rect1231" />
+    <text
+       font-size="12.8px"
+       style="font-style:normal;font-weight:normal;font-family:monospace;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
+       x="987.34198"
+       y="872.06799"
+       id="text1233">+3x3 Matrix()</text>
+  </g>
+  <g
+     id="g1241"
+     transform="translate(-4937.048,-141.1233)">
+    <polyline
+       style="fill:none;stroke:#000000;stroke-width:2;stroke-dasharray:8;stroke-opacity:1"
+       points="1034.33,750.787 1034.33,780.724 1039.39,780.724 1039.39,811.956 "
+       id="polyline1237" />
+    <polyline
+       style="fill:none;stroke:#000000;stroke-width:2;stroke-opacity:1"
+       points="1034.39,799.308 1039.39,815.308 1044.39,799.308 "
+       id="polyline1239" />
+  </g>
+  <g
+     id="g1253"
+     transform="translate(-4937.048,-141.1233)">
+    <rect
+       style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:2;stroke-opacity:1"
+       x="1574.1899"
+       y="505.82599"
+       width="105.1"
+       height="42"
+       id="rect1243" />
+    <text
+       font-size="16px"
+       style="font-style:normal;font-weight:700;font-family:sans-serif;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
+       x="1626.74"
+       y="524.82599"
+       id="text1245">SizeX</text>
+    <text
+       font-size="11.2px"
+       style="font-style:italic;font-weight:normal;font-family:sans-serif;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
+       x="1626.74"
+       y="540.32599"
+       id="text1247">Allowed Count: 1</text>
+    <rect
+       style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:2;stroke-opacity:1"
+       x="1574.1899"
+       y="547.82599"
+       width="105.1"
+       height="8"
+       id="rect1249" />
+    <rect
+       style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:2;stroke-opacity:1"
+       x="1574.1899"
+       y="555.82599"
+       width="105.1"
+       height="8"
+       id="rect1251" />
+  </g>
+  <g
+     id="g1265"
+     transform="translate(-4937.048,-141.1233)">
+    <rect
+       style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:2;stroke-opacity:1"
+       x="1573.01"
+       y="613.90601"
+       width="105.1"
+       height="42"
+       id="rect1255" />
+    <text
+       font-size="16px"
+       style="font-style:normal;font-weight:700;font-family:sans-serif;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
+       x="1625.5601"
+       y="632.90601"
+       id="text1257">SizeY</text>
+    <text
+       font-size="11.2px"
+       style="font-style:italic;font-weight:normal;font-family:sans-serif;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
+       x="1625.5601"
+       y="648.40601"
+       id="text1259">Allowed Count: 1</text>
+    <rect
+       style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:2;stroke-opacity:1"
+       x="1573.01"
+       y="655.90601"
+       width="105.1"
+       height="8"
+       id="rect1261" />
+    <rect
+       style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:2;stroke-opacity:1"
+       x="1573.01"
+       y="663.90601"
+       width="105.1"
+       height="8"
+       id="rect1263" />
+  </g>
+  <g
+     id="g1271"
+     transform="translate(-4937.048,-141.1233)">
+    <polyline
+       style="fill:none;stroke:#000000;stroke-width:2;stroke-dasharray:8;stroke-opacity:1"
+       points="1295.17,499.398 1430.18,499.398 1430.18,534.826 1566.48,534.826 "
+       id="polyline1267" />
+    <polyline
+       style="fill:none;stroke:#000000;stroke-width:2;stroke-opacity:1"
+       points="1553.83,539.826 1569.83,534.826 1553.83,529.826 "
+       id="polyline1269" />
+  </g>
+  <g
+     id="g1277"
+     transform="translate(-4937.048,-141.1233)">
+    <polyline
+       style="fill:none;stroke:#000000;stroke-width:2;stroke-dasharray:8;stroke-opacity:1"
+       points="1294.16,485.398 1429.08,485.398 1429.08,642.906 1565.3,642.906 "
+       id="polyline1273" />
+    <polyline
+       style="fill:none;stroke:#000000;stroke-width:2;stroke-opacity:1"
+       points="1552.65,647.906 1568.65,642.906 1552.65,637.906 "
+       id="polyline1275" />
+  </g>
+  <g
+     id="g1295"
+     transform="translate(-4937.048,-141.1233)">
+    <rect
+       style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:2;stroke-opacity:1"
+       x="1576.88"
+       y="726.14203"
+       width="202.5"
+       height="42"
+       id="rect1279" />
+    <text
+       font-size="16px"
+       style="font-style:normal;font-weight:700;font-family:sans-serif;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
+       x="1678.13"
+       y="745.14203"
+       id="text1281">Source</text>
+    <text
+       font-size="11.2px"
+       style="font-style:italic;font-weight:normal;font-family:sans-serif;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
+       x="1678.13"
+       y="760.64203"
+       id="text1283">Allowed Count: 1</text>
+    <rect
+       style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:2;stroke-opacity:1"
+       x="1576.88"
+       y="768.14203"
+       width="202.5"
+       height="20"
+       id="rect1285" />
+    <text
+       font-size="12.8px"
+       style="font-style:normal;font-weight:normal;font-family:monospace;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
+       x="1579.88"
+       y="784.54199"
+       id="text1287">+String</text>
+    <rect
+       style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:2;stroke-opacity:1"
+       x="1576.88"
+       y="788.14203"
+       width="202.5"
+       height="36"
+       id="rect1289" />
+    <text
+       font-size="12.8px"
+       style="font-style:normal;font-weight:normal;font-family:monospace;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
+       x="1579.88"
+       y="804.54199"
+       id="text1291">+linkedGeometry(): String</text>
+    <text
+       font-size="12.8px"
+       style="font-style:normal;font-weight:normal;font-family:monospace;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
+       x="1579.88"
+       y="820.54199"
+       id="text1293">+type(): Enum</text>
+  </g>
+  <g
+     id="g1301"
+     transform="translate(-4937.048,-141.1233)">
+    <polyline
+       style="fill:none;stroke:#000000;stroke-width:2;stroke-dasharray:8;stroke-opacity:1"
+       points="1294.16,485.398 1431.02,485.398 1431.02,775.142 1569.16,775.142 "
+       id="polyline1297" />
+    <polyline
+       style="fill:none;stroke:#000000;stroke-width:2;stroke-opacity:1"
+       points="1556.52,780.142 1572.52,775.142 1556.52,770.142 "
+       id="polyline1299" />
+  </g>
+  <g
+     id="g1317"
+     transform="translate(-4937.048,-141.1233)">
+    <rect
+       style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:2;stroke-opacity:1"
+       x="1592.28"
+       y="862.09601"
+       width="149.89999"
+       height="56"
+       id="rect1303" />
+    <text
+       font-size="16px"
+       style="font-style:normal;font-weight:700;font-family:sans-serif;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
+       x="1667.23"
+       y="881.09601"
+       id="text1305">ScaleHandeling</text>
+    <text
+       font-size="11.2px"
+       style="font-style:italic;font-weight:normal;font-family:sans-serif;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
+       x="1667.23"
+       y="896.59601"
+       id="text1307">Allowed Count: 0</text>
+    <text
+       font-size="11.2px"
+       style="font-style:italic;font-weight:normal;font-family:sans-serif;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
+       x="1667.23"
+       y="910.59601"
+       id="text1309">or 1</text>
+    <rect
+       style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:2;stroke-opacity:1"
+       x="1592.28"
+       y="918.09601"
+       width="149.89999"
+       height="20"
+       id="rect1311" />
+    <text
+       font-size="12.8px"
+       style="font-style:normal;font-weight:normal;font-family:monospace;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
+       x="1595.28"
+       y="934.49597"
+       id="text1313">+Enum</text>
+    <rect
+       style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:2;stroke-opacity:1"
+       x="1592.28"
+       y="938.09601"
+       width="149.89999"
+       height="8"
+       id="rect1315" />
+  </g>
+  <g
+     id="g1323"
+     transform="translate(-4937.048,-141.1233)">
+    <polyline
+       style="fill:none;stroke:#000000;stroke-width:2;stroke-dasharray:8;stroke-opacity:1"
+       points="1294.16,517.398 1438.72,517.398 1438.72,904.096 1584.57,904.096 "
+       id="polyline1319" />
+    <polyline
+       style="fill:none;stroke:#000000;stroke-width:2;stroke-opacity:1"
+       points="1571.92,909.096 1587.92,904.096 1571.92,899.096 "
+       id="polyline1321" />
+  </g>
+  <g
+     id="g1877"
+     transform="translate(-4937.048,-141.1233)">
+    <polyline
+       style="fill:none;stroke:#000000;stroke-width:2;stroke-dasharray:8;stroke-opacity:1"
+       points="820.653,243.007 900.406,243.008 900.406,533.398 1111.06,533.398 "
+       id="polyline1873" />
+    <polyline
+       style="fill:none;stroke:#000000;stroke-width:2;stroke-opacity:1"
+       points="1098.41,538.398 1114.41,533.398 1098.41,528.398 "
+       id="polyline1875" />
+  </g>
+</svg>

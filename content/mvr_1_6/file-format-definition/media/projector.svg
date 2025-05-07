@@ -1,0 +1,1554 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="97.472855cm"
+   height="51.410404cm"
+   viewBox="-4267 -1 1947.6597 1020.0188"
+   version="1.1"
+   id="svg3993"
+   sodipodi:docname="projector.svg"
+   inkscape:version="1.2.2 (b0a8486541, 2022-12-01)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs3997" />
+  <sodipodi:namedview
+     id="namedview3995"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="cm"
+     showgrid="false"
+     inkscape:zoom="0.18014184"
+     inkscape:cx="1937.3622"
+     inkscape:cy="1895.7283"
+     inkscape:window-width="1920"
+     inkscape:window-height="1035"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg3993" />
+  <g
+     id="g1091"
+     transform="translate(-12138.92,-1212.7006)">
+    <rect
+       style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:2;stroke-opacity:1"
+       x="8478.7998"
+       y="1209.08"
+       width="125.5"
+       height="28"
+       id="rect1043" />
+    <text
+       font-size="16px"
+       style="font-style:normal;font-weight:700;font-family:sans-serif;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
+       x="8541.5498"
+       y="1228.08"
+       id="text1045">Projector</text>
+    <rect
+       style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:2;stroke-opacity:1"
+       x="8478.7998"
+       y="1237.08"
+       width="125.5"
+       height="292"
+       id="rect1047" />
+    <text
+       font-size="12.8px"
+       style="font-style:normal;font-weight:normal;font-family:monospace;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
+       x="8481.7998"
+       y="1253.48"
+       id="text1049">+Matrix</text>
+    <text
+       font-size="12.8px"
+       style="font-style:normal;font-weight:normal;font-family:monospace;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
+       x="8481.7998"
+       y="1269.48"
+       id="text1051">+Classing</text>
+    <text
+       font-size="12.8px"
+       style="font-style:normal;font-weight:normal;font-family:monospace;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
+       x="8481.7998"
+       y="1285.48"
+       id="text1053">+Geometries</text>
+    <text
+       font-size="12.8px"
+       style="font-style:normal;font-weight:normal;font-family:monospace;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
+       x="8481.7998"
+       y="1301.48"
+       id="text1055">+Projections</text>
+    <text
+       font-size="12.8px"
+       style="font-style:normal;font-weight:normal;font-family:monospace;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
+       x="8481.7998"
+       y="1317.48"
+       id="text1057">+Function</text>
+    <text
+       font-size="12.8px"
+       style="font-style:normal;font-weight:normal;font-family:monospace;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
+       x="8481.7998"
+       y="1333.48"
+       id="text1059">+GDTFSpec</text>
+    <text
+       font-size="12.8px"
+       style="font-style:normal;font-weight:normal;font-family:monospace;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
+       x="8481.7998"
+       y="1349.48"
+       id="text1061">+GDTFMode</text>
+    <text
+       font-size="12.8px"
+       style="font-style:normal;font-weight:normal;font-family:monospace;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
+       x="8481.7998"
+       y="1365.48"
+       id="text1063">+Focus</text>
+    <text
+       font-size="12.8px"
+       style="font-style:normal;font-weight:normal;font-family:monospace;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
+       x="8481.7998"
+       y="1381.48"
+       id="text1065">+CastShadow</text>
+    <text
+       font-size="12.8px"
+       style="font-style:normal;font-weight:normal;font-family:monospace;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
+       x="8481.7998"
+       y="1397.48"
+       id="text1067">+Position</text>
+    <text
+       font-size="12.8px"
+       style="font-style:normal;font-weight:normal;font-family:monospace;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
+       x="8481.7998"
+       y="1413.48"
+       id="text1069">+Function</text>
+    <text
+       font-size="12.8px"
+       style="font-style:normal;font-weight:normal;font-family:monospace;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
+       x="8481.7998"
+       y="1429.48"
+       id="text1071">+FixtureID</text>
+    <text
+       font-size="12.8px"
+       style="font-style:normal;font-weight:normal;font-family:monospace;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
+       x="8481.7998"
+       y="1445.48"
+       id="text1073">+UnitNumber</text>
+    <text
+       font-size="12.8px"
+       style="font-style:normal;font-weight:normal;font-family:monospace;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
+       x="8481.7998"
+       y="1461.48"
+       id="text1075">+Addresses</text>
+    <text
+       font-size="12.8px"
+       style="font-style:normal;font-weight:normal;font-family:monospace;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
+       x="8481.7998"
+       y="1477.48"
+       id="text1077">+Aligments</text>
+    <text
+       font-size="12.8px"
+       style="font-style:normal;font-weight:normal;font-family:monospace;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
+       x="8481.7998"
+       y="1493.48"
+       id="text1079">+CustomCommands</text>
+    <text
+       font-size="12.8px"
+       style="font-style:normal;font-weight:normal;font-family:monospace;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
+       x="8481.7998"
+       y="1509.48"
+       id="text1081">+Overwrites</text>
+    <text
+       font-size="12.8px"
+       style="font-style:normal;font-weight:normal;font-family:monospace;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
+       x="8481.7998"
+       y="1525.48"
+       id="text1083">+Connections</text>
+    <rect
+       style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:2;stroke-opacity:1"
+       x="8478.7998"
+       y="1529.08"
+       width="125.5"
+       height="36"
+       id="rect1085" />
+    <text
+       font-size="12.8px"
+       style="font-style:normal;font-weight:normal;font-family:monospace;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
+       x="8481.7998"
+       y="1545.48"
+       id="text1087">+uuid(): UUID</text>
+    <text
+       font-size="12.8px"
+       style="font-style:normal;font-weight:normal;font-family:monospace;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
+       x="8481.7998"
+       y="1561.48"
+       id="text1089">+name(): String</text>
+  </g>
+  <g
+     id="g1105"
+     transform="translate(-12138.92,-1212.7006)">
+    <rect
+       style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:2;stroke-opacity:1"
+       x="8422.2998"
+       y="1706.03"
+       width="111.55"
+       height="42"
+       id="rect1093" />
+    <text
+       font-size="16px"
+       style="font-style:normal;font-weight:700;font-family:sans-serif;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
+       x="8478.0801"
+       y="1725.03"
+       id="text1095">Projections</text>
+    <text
+       font-size="11.2px"
+       style="font-style:italic;font-weight:normal;font-family:sans-serif;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
+       x="8478.0801"
+       y="1740.53"
+       id="text1097">Allowed count: 1</text>
+    <rect
+       style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:2;stroke-opacity:1"
+       x="8422.2998"
+       y="1748.03"
+       width="111.55"
+       height="20"
+       id="rect1099" />
+    <text
+       font-size="12.8px"
+       style="font-style:normal;font-weight:normal;font-family:monospace;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
+       x="8425.2998"
+       y="1764.4301"
+       id="text1101">+Projection</text>
+    <rect
+       style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:2;stroke-opacity:1"
+       x="8422.2998"
+       y="1768.03"
+       width="111.55"
+       height="8"
+       id="rect1103" />
+  </g>
+  <g
+     id="g1119"
+     transform="translate(-12138.92,-1212.7006)">
+    <rect
+       style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:2;stroke-opacity:1"
+       x="8420.6602"
+       y="1844.74"
+       width="117.8"
+       height="28"
+       id="rect1107" />
+    <text
+       font-size="16px"
+       style="font-style:normal;font-weight:700;font-family:sans-serif;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
+       x="8479.5596"
+       y="1863.74"
+       id="text1109">Projection</text>
+    <rect
+       style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:2;stroke-opacity:1"
+       x="8420.6602"
+       y="1872.74"
+       width="117.8"
+       height="36"
+       id="rect1111" />
+    <text
+       font-size="12.8px"
+       style="font-style:normal;font-weight:normal;font-family:monospace;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
+       x="8423.6602"
+       y="1889.14"
+       id="text1113">+Source</text>
+    <text
+       font-size="12.8px"
+       style="font-style:normal;font-weight:normal;font-family:monospace;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
+       x="8423.6602"
+       y="1905.14"
+       id="text1115">+ScaleHandling</text>
+    <rect
+       style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:2;stroke-opacity:1"
+       x="8420.6602"
+       y="1908.74"
+       width="117.8"
+       height="8"
+       id="rect1117" />
+  </g>
+  <g
+     id="g1125"
+     transform="translate(-12138.92,-1212.7006)">
+    <polyline
+       style="fill:none;stroke:#000000;stroke-width:2;stroke-dasharray:8;stroke-opacity:1"
+       points="8478.08,1777.03 8478.08,1806.38 8479.56,1806.38 8479.56,1837.03 "
+       id="polyline1121" />
+    <polyline
+       style="fill:none;stroke:#000000;stroke-width:2;stroke-opacity:1"
+       points="8474.56,1824.38 8479.56,1840.38 8484.56,1824.38 "
+       id="polyline1123" />
+  </g>
+  <g
+     id="g1137"
+     transform="translate(-12138.92,-1212.7006)">
+    <rect
+       style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:2;stroke-opacity:1"
+       x="8434.9404"
+       y="2008.34"
+       width="81.650002"
+       height="28"
+       id="rect1127" />
+    <text
+       font-size="16px"
+       style="font-style:normal;font-weight:700;font-family:sans-serif;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
+       x="8475.7598"
+       y="2027.34"
+       id="text1129">Sources</text>
+    <rect
+       style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:2;stroke-opacity:1"
+       x="8434.9404"
+       y="2036.34"
+       width="81.650002"
+       height="20"
+       id="rect1131" />
+    <text
+       font-size="12.8px"
+       style="font-style:normal;font-weight:normal;font-family:monospace;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
+       x="8437.9404"
+       y="2052.74"
+       id="text1133">+Source</text>
+    <rect
+       style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:2;stroke-opacity:1"
+       x="8434.9404"
+       y="2056.3401"
+       width="81.650002"
+       height="8"
+       id="rect1135" />
+  </g>
+  <g
+     id="g1151"
+     transform="translate(-12138.92,-1212.7006)">
+    <rect
+       style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:2;stroke-opacity:1"
+       x="8400.5801"
+       y="2162.3401"
+       width="140.89999"
+       height="28"
+       id="rect1139" />
+    <text
+       font-size="16px"
+       style="font-style:normal;font-weight:700;font-family:sans-serif;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
+       x="8471.0303"
+       y="2181.3401"
+       id="text1141">Sources</text>
+    <rect
+       style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:2;stroke-opacity:1"
+       x="8400.5801"
+       y="2190.3401"
+       width="140.89999"
+       height="8"
+       id="rect1143" />
+    <rect
+       style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:2;stroke-opacity:1"
+       x="8400.5801"
+       y="2198.3401"
+       width="140.89999"
+       height="36"
+       id="rect1145" />
+    <text
+       font-size="12.8px"
+       style="font-style:normal;font-weight:normal;font-family:monospace;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
+       x="8403.5801"
+       y="2214.74"
+       id="text1147">+linkedGeometry()</text>
+    <text
+       font-size="12.8px"
+       style="font-style:normal;font-weight:normal;font-family:monospace;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
+       x="8403.5801"
+       y="2230.74"
+       id="text1149">+type()</text>
+  </g>
+  <g
+     id="g1157"
+     transform="translate(-12138.92,-1212.7006)">
+    <polyline
+       style="fill:none;stroke:#000000;stroke-width:2;stroke-dasharray:8;stroke-opacity:1"
+       points="8475.76,2065.35 8475.76,2109.34 8471.03,2109.34 8471.03,2154.63 "
+       id="polyline1153" />
+    <polyline
+       style="fill:none;stroke:#000000;stroke-width:2;stroke-opacity:1"
+       points="8466.03,2141.98 8471.03,2157.98 8476.03,2141.98 "
+       id="polyline1155" />
+  </g>
+  <g
+     id="g1163"
+     transform="translate(-12138.92,-1212.7006)">
+    <polyline
+       style="fill:none;stroke:#000000;stroke-width:2;stroke-dasharray:8;stroke-opacity:1"
+       points="8479.56,1917.75 8479.56,1958.54 8475.76,1958.54 8475.76,2000.63 "
+       id="polyline1159" />
+    <polyline
+       style="fill:none;stroke:#000000;stroke-width:2;stroke-opacity:1"
+       points="8470.76,1987.98 8475.76,2003.98 8480.76,1987.98 "
+       id="polyline1161" />
+  </g>
+  <g
+     id="g1175"
+     transform="translate(-12138.92,-1212.7006)">
+    <rect
+       style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:2;stroke-opacity:1"
+       x="8607.7197"
+       y="1959.09"
+       width="149.89999"
+       height="28"
+       id="rect1165" />
+    <text
+       font-size="16px"
+       style="font-style:normal;font-weight:700;font-family:sans-serif;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
+       x="8682.6699"
+       y="1978.09"
+       id="text1167">ScaleHandeling</text>
+    <rect
+       style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:2;stroke-opacity:1"
+       x="8607.7197"
+       y="1987.09"
+       width="149.89999"
+       height="8"
+       id="rect1169" />
+    <rect
+       style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:2;stroke-opacity:1"
+       x="8607.7197"
+       y="1995.09"
+       width="149.89999"
+       height="20"
+       id="rect1171" />
+    <text
+       font-size="12.8px"
+       style="font-style:normal;font-weight:normal;font-family:monospace;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
+       x="8610.7197"
+       y="2011.49"
+       id="text1173">+(): Enum</text>
+  </g>
+  <g
+     id="g1181"
+     transform="translate(-12138.92,-1212.7006)">
+    <polyline
+       style="fill:none;stroke:#000000;stroke-width:2;stroke-dasharray:8;stroke-opacity:1"
+       points="8539.47,1880.74 8569.09,1880.74 8569.09,1987.09 8600.01,1987.09 "
+       id="polyline1177" />
+    <polyline
+       style="fill:none;stroke:#000000;stroke-width:2;stroke-opacity:1"
+       points="8587.36,1992.09 8603.36,1987.09 8587.36,1982.09 "
+       id="polyline1179" />
+  </g>
+  <g
+     id="g3593"
+     transform="translate(-12138.92,-1212.7006)">
+    <rect
+       style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:2;stroke-opacity:1"
+       x="7872.9199"
+       y="1714.0699"
+       width="110.1"
+       height="56"
+       id="rect3579" />
+    <text
+       font-size="16px"
+       style="font-style:normal;font-weight:700;font-family:sans-serif;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
+       x="7927.9702"
+       y="1733.0699"
+       id="text3581">Matrix</text>
+    <text
+       font-size="11.2px"
+       style="font-style:italic;font-weight:normal;font-family:sans-serif;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
+       x="7927.9702"
+       y="1748.5699"
+       id="text3583">Allowed count: 0</text>
+    <text
+       font-size="11.2px"
+       style="font-style:italic;font-weight:normal;font-family:sans-serif;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
+       x="7927.9702"
+       y="1762.5699"
+       id="text3585">or 1</text>
+    <rect
+       style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:2;stroke-opacity:1"
+       x="7872.9199"
+       y="1770.0699"
+       width="110.1"
+       height="8"
+       id="rect3587" />
+    <rect
+       style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:2;stroke-opacity:1"
+       x="7872.9199"
+       y="1778.0699"
+       width="110.1"
+       height="20"
+       id="rect3589" />
+    <text
+       font-size="12.8px"
+       style="font-style:normal;font-weight:normal;font-family:monospace;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
+       x="7875.9199"
+       y="1794.47"
+       id="text3591">+3x3 Matrix()</text>
+  </g>
+  <g
+     id="g3605"
+     transform="translate(-12138.92,-1212.7006)">
+    <rect
+       style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:2;stroke-opacity:1"
+       x="8004.7002"
+       y="1714.0699"
+       width="103.45"
+       height="56"
+       id="rect3595" />
+    <text
+       font-size="16px"
+       style="font-style:normal;font-weight:700;font-family:sans-serif;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
+       x="8056.4302"
+       y="1733.0699"
+       id="text3597">Classing</text>
+    <text
+       font-size="11.2px"
+       style="font-style:italic;font-weight:normal;font-family:sans-serif;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
+       x="8056.4302"
+       y="1748.5699"
+       id="text3599">Allowed count: 0</text>
+    <text
+       font-size="11.2px"
+       style="font-style:italic;font-weight:normal;font-family:sans-serif;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
+       x="8056.4302"
+       y="1762.5699"
+       id="text3601">or 1</text>
+    <rect
+       style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:2;stroke-opacity:1"
+       x="8004.7002"
+       y="1770.0699"
+       width="103.45"
+       height="8"
+       id="rect3603" />
+  </g>
+  <g
+     id="g3621"
+     transform="translate(-12138.92,-1212.7006)">
+    <rect
+       style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:2;stroke-opacity:1"
+       x="8639.1602"
+       y="1714.0699"
+       width="103.45"
+       height="56"
+       id="rect3607" />
+    <text
+       font-size="16px"
+       style="font-style:normal;font-weight:700;font-family:sans-serif;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
+       x="8690.8896"
+       y="1733.0699"
+       id="text3609">GDTFSpec</text>
+    <text
+       font-size="11.2px"
+       style="font-style:italic;font-weight:normal;font-family:sans-serif;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
+       x="8690.8896"
+       y="1748.5699"
+       id="text3611">Allowed count: 0</text>
+    <text
+       font-size="11.2px"
+       style="font-style:italic;font-weight:normal;font-family:sans-serif;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
+       x="8690.8896"
+       y="1762.5699"
+       id="text3613">or 1</text>
+    <rect
+       style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:2;stroke-opacity:1"
+       x="8639.1602"
+       y="1770.0699"
+       width="103.45"
+       height="20"
+       id="rect3615" />
+    <text
+       font-size="12.8px"
+       style="font-style:normal;font-weight:normal;font-family:monospace;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
+       x="8642.1602"
+       y="1786.47"
+       id="text3617">+FileName</text>
+    <rect
+       style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:2;stroke-opacity:1"
+       x="8639.1602"
+       y="1790.0699"
+       width="103.45"
+       height="8"
+       id="rect3619" />
+  </g>
+  <g
+     id="g3635"
+     transform="translate(-12138.92,-1212.7006)">
+    <rect
+       style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:2;stroke-opacity:1"
+       x="8776.5996"
+       y="1714.0699"
+       width="107.5"
+       height="42"
+       id="rect3623" />
+    <text
+       font-size="16px"
+       style="font-style:normal;font-weight:700;font-family:sans-serif;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
+       x="8830.3496"
+       y="1733.0699"
+       id="text3625">GDTFMode</text>
+    <text
+       font-size="11.2px"
+       style="font-style:italic;font-weight:normal;font-family:sans-serif;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
+       x="8830.3496"
+       y="1748.5699"
+       id="text3627">Allowed count: 1</text>
+    <rect
+       style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:2;stroke-opacity:1"
+       x="8776.5996"
+       y="1756.0699"
+       width="107.5"
+       height="20"
+       id="rect3629" />
+    <text
+       font-size="12.8px"
+       style="font-style:normal;font-weight:normal;font-family:monospace;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
+       x="8779.5996"
+       y="1772.47"
+       id="text3631">+String</text>
+    <rect
+       style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:2;stroke-opacity:1"
+       x="8776.5996"
+       y="1776.0699"
+       width="107.5"
+       height="8"
+       id="rect3633" />
+  </g>
+  <g
+     id="g3647"
+     transform="translate(-12138.92,-1212.7006)">
+    <rect
+       style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:2;stroke-opacity:1"
+       x="9684.1201"
+       y="1712.53"
+       width="120.95"
+       height="28"
+       id="rect3637" />
+    <text
+       font-size="16px"
+       style="font-style:normal;font-weight:700;font-family:sans-serif;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
+       x="9744.5996"
+       y="1731.53"
+       id="text3639">Connections</text>
+    <rect
+       style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:2;stroke-opacity:1"
+       x="9684.1201"
+       y="1740.53"
+       width="120.95"
+       height="20"
+       id="rect3641" />
+    <text
+       font-size="12.8px"
+       style="font-style:normal;font-weight:normal;font-family:monospace;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
+       x="9687.1201"
+       y="1756.9301"
+       id="text3643">+Connection</text>
+    <rect
+       style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:2;stroke-opacity:1"
+       x="9684.1201"
+       y="1760.53"
+       width="120.95"
+       height="8"
+       id="rect3645" />
+  </g>
+  <g
+     id="g3663"
+     transform="translate(-12138.92,-1212.7006)">
+    <rect
+       style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:2;stroke-opacity:1"
+       x="9677.6797"
+       y="1859.41"
+       width="140.89999"
+       height="28"
+       id="rect3649" />
+    <text
+       font-size="16px"
+       style="font-style:normal;font-weight:700;font-family:sans-serif;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
+       x="9748.1299"
+       y="1878.41"
+       id="text3651">Connection</text>
+    <rect
+       style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:2;stroke-opacity:1"
+       x="9677.6797"
+       y="1887.41"
+       width="140.89999"
+       height="8"
+       id="rect3653" />
+    <rect
+       style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:2;stroke-opacity:1"
+       x="9677.6797"
+       y="1895.41"
+       width="140.89999"
+       height="52"
+       id="rect3655" />
+    <text
+       font-size="12.8px"
+       style="font-style:normal;font-weight:normal;font-family:monospace;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
+       x="9680.6797"
+       y="1911.8101"
+       id="text3657">+own(): String</text>
+    <text
+       font-size="12.8px"
+       style="font-style:normal;font-weight:normal;font-family:monospace;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
+       x="9680.6797"
+       y="1927.8101"
+       id="text3659">+other(): String</text>
+    <text
+       font-size="12.8px"
+       style="font-style:normal;font-weight:normal;font-family:monospace;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
+       x="9680.6797"
+       y="1943.8101"
+       id="text3661">+toObject(): UUID</text>
+  </g>
+  <g
+     id="g3679"
+     transform="translate(-12138.92,-1212.7006)">
+    <rect
+       style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:2;stroke-opacity:1"
+       x="9491.3398"
+       y="1714.0699"
+       width="109"
+       height="56"
+       id="rect3665" />
+    <text
+       font-size="16px"
+       style="font-style:normal;font-weight:700;font-family:sans-serif;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
+       x="9545.8398"
+       y="1733.0699"
+       id="text3667">Overwrites</text>
+    <text
+       font-size="11.2px"
+       style="font-style:italic;font-weight:normal;font-family:sans-serif;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
+       x="9545.8398"
+       y="1748.5699"
+       id="text3669">Allowed Count: 0</text>
+    <text
+       font-size="11.2px"
+       style="font-style:italic;font-weight:normal;font-family:sans-serif;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
+       x="9545.8398"
+       y="1762.5699"
+       id="text3671">or 1</text>
+    <rect
+       style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:2;stroke-opacity:1"
+       x="9491.3398"
+       y="1770.0699"
+       width="109"
+       height="20"
+       id="rect3673" />
+    <text
+       font-size="12.8px"
+       style="font-style:normal;font-weight:normal;font-family:monospace;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
+       x="9494.3398"
+       y="1786.47"
+       id="text3675">+Overwrite</text>
+    <rect
+       style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:2;stroke-opacity:1"
+       x="9491.3398"
+       y="1790.0699"
+       width="109"
+       height="8"
+       id="rect3677" />
+  </g>
+  <g
+     id="g3693"
+     transform="translate(-12138.92,-1212.7006)">
+    <rect
+       style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:2;stroke-opacity:1"
+       x="9471.8203"
+       y="1864.67"
+       width="164"
+       height="28"
+       id="rect3681" />
+    <text
+       font-size="16px"
+       style="font-style:normal;font-weight:700;font-family:sans-serif;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
+       x="9553.8203"
+       y="1883.67"
+       id="text3683">Overwrite</text>
+    <rect
+       style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:2;stroke-opacity:1"
+       x="9471.8203"
+       y="1892.67"
+       width="164"
+       height="8"
+       id="rect3685" />
+    <rect
+       style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:2;stroke-opacity:1"
+       x="9471.8203"
+       y="1900.67"
+       width="164"
+       height="36"
+       id="rect3687" />
+    <text
+       font-size="12.8px"
+       style="font-style:normal;font-weight:normal;font-family:monospace;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
+       x="9474.8203"
+       y="1917.0699"
+       id="text3689">+universal(): String</text>
+    <text
+       font-size="12.8px"
+       style="font-style:normal;font-weight:normal;font-family:monospace;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
+       x="9474.8203"
+       y="1933.0699"
+       id="text3691">+target(): String</text>
+  </g>
+  <g
+     id="g3709"
+     transform="translate(-12138.92,-1212.7006)">
+    <rect
+       style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:2;stroke-opacity:1"
+       x="9253.8203"
+       y="1714.0699"
+       width="177.14999"
+       height="56"
+       id="rect3695" />
+    <text
+       font-size="16px"
+       style="font-style:normal;font-weight:700;font-family:sans-serif;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
+       x="9342.3896"
+       y="1733.0699"
+       id="text3697">CustomCommands</text>
+    <text
+       font-size="11.2px"
+       style="font-style:italic;font-weight:normal;font-family:sans-serif;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
+       x="9342.3896"
+       y="1748.5699"
+       id="text3699">Allowed Count: 0</text>
+    <text
+       font-size="11.2px"
+       style="font-style:italic;font-weight:normal;font-family:sans-serif;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
+       x="9342.3896"
+       y="1762.5699"
+       id="text3701">or 1</text>
+    <rect
+       style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:2;stroke-opacity:1"
+       x="9253.8203"
+       y="1770.0699"
+       width="177.14999"
+       height="20"
+       id="rect3703" />
+    <text
+       font-size="12.8px"
+       style="font-style:normal;font-weight:normal;font-family:monospace;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
+       x="9256.8203"
+       y="1786.47"
+       id="text3705">+CustomCommand</text>
+    <rect
+       style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:2;stroke-opacity:1"
+       x="9253.8203"
+       y="1790.0699"
+       width="177.14999"
+       height="8"
+       id="rect3707" />
+  </g>
+  <g
+     id="g3719"
+     transform="translate(-12138.92,-1212.7006)">
+    <rect
+       style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:2;stroke-opacity:1"
+       x="9256.5596"
+       y="1873.62"
+       width="167.64999"
+       height="28"
+       id="rect3711" />
+    <text
+       font-size="16px"
+       style="font-style:normal;font-weight:700;font-family:sans-serif;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
+       x="9340.3896"
+       y="1892.62"
+       id="text3713">CustomCommand</text>
+    <rect
+       style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:2;stroke-opacity:1"
+       x="9256.5596"
+       y="1901.62"
+       width="167.64999"
+       height="8"
+       id="rect3715" />
+    <rect
+       style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:2;stroke-opacity:1"
+       x="9256.5596"
+       y="1909.62"
+       width="167.64999"
+       height="8"
+       id="rect3717" />
+  </g>
+  <g
+     id="g3735"
+     transform="translate(-12138.92,-1212.7006)">
+    <rect
+       style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:2;stroke-opacity:1"
+       x="9079.46"
+       y="1714.0699"
+       width="112.3"
+       height="56"
+       id="rect3721" />
+    <text
+       font-size="16px"
+       style="font-style:normal;font-weight:700;font-family:sans-serif;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
+       x="9135.6104"
+       y="1733.0699"
+       id="text3723">Alignments</text>
+    <text
+       font-size="11.2px"
+       style="font-style:italic;font-weight:normal;font-family:sans-serif;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
+       x="9135.6104"
+       y="1748.5699"
+       id="text3725">Allowed Count: 0</text>
+    <text
+       font-size="11.2px"
+       style="font-style:italic;font-weight:normal;font-family:sans-serif;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
+       x="9135.6104"
+       y="1762.5699"
+       id="text3727">or 1</text>
+    <rect
+       style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:2;stroke-opacity:1"
+       x="9079.46"
+       y="1770.0699"
+       width="112.3"
+       height="20"
+       id="rect3729" />
+    <text
+       font-size="12.8px"
+       style="font-style:normal;font-weight:normal;font-family:monospace;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
+       x="9082.46"
+       y="1786.47"
+       id="text3731">+Alignment</text>
+    <rect
+       style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:2;stroke-opacity:1"
+       x="9079.46"
+       y="1790.0699"
+       width="112.3"
+       height="8"
+       id="rect3733" />
+  </g>
+  <g
+     id="g3751"
+     transform="translate(-12138.92,-1212.7006)">
+    <rect
+       style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:2;stroke-opacity:1"
+       x="9058.6396"
+       y="1861.96"
+       width="164"
+       height="28"
+       id="rect3737" />
+    <text
+       font-size="16px"
+       style="font-style:normal;font-weight:700;font-family:sans-serif;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
+       x="9140.6396"
+       y="1880.96"
+       id="text3739">Alignment</text>
+    <rect
+       style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:2;stroke-opacity:1"
+       x="9058.6396"
+       y="1889.96"
+       width="164"
+       height="8"
+       id="rect3741" />
+    <rect
+       style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:2;stroke-opacity:1"
+       x="9058.6396"
+       y="1897.96"
+       width="164"
+       height="52"
+       id="rect3743" />
+    <text
+       font-size="12.8px"
+       style="font-style:normal;font-weight:normal;font-family:monospace;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
+       x="9061.6396"
+       y="1914.36"
+       id="text3745">+geometry(): Node</text>
+    <text
+       font-size="12.8px"
+       style="font-style:normal;font-weight:normal;font-family:monospace;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
+       x="9061.6396"
+       y="1930.36"
+       id="text3747">+up(): String</text>
+    <text
+       font-size="12.8px"
+       style="font-style:normal;font-weight:normal;font-family:monospace;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
+       x="9061.6396"
+       y="1946.36"
+       id="text3749">+direction(): String</text>
+  </g>
+  <g
+     id="g3767"
+     transform="translate(-12138.92,-1212.7006)">
+    <rect
+       style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:2;stroke-opacity:1"
+       x="8917.5"
+       y="1714.0699"
+       width="103.45"
+       height="56"
+       id="rect3753" />
+    <text
+       font-size="16px"
+       style="font-style:normal;font-weight:700;font-family:sans-serif;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
+       x="8969.2305"
+       y="1733.0699"
+       id="text3755">Addresses</text>
+    <text
+       font-size="11.2px"
+       style="font-style:italic;font-weight:normal;font-family:sans-serif;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
+       x="8969.2305"
+       y="1748.5699"
+       id="text3757">Allowed count: 0</text>
+    <text
+       font-size="11.2px"
+       style="font-style:italic;font-weight:normal;font-family:sans-serif;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
+       x="8969.2305"
+       y="1762.5699"
+       id="text3759">or 1</text>
+    <rect
+       style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:2;stroke-opacity:1"
+       x="8917.5"
+       y="1770.0699"
+       width="103.45"
+       height="20"
+       id="rect3761" />
+    <text
+       font-size="12.8px"
+       style="font-style:normal;font-weight:normal;font-family:monospace;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
+       x="8920.5"
+       y="1786.47"
+       id="text3763">+Break</text>
+    <rect
+       style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:2;stroke-opacity:1"
+       x="8917.5"
+       y="1790.0699"
+       width="103.45"
+       height="8"
+       id="rect3765" />
+  </g>
+  <g
+     id="g3781"
+     transform="translate(-12138.92,-1212.7006)">
+    <rect
+       style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:2;stroke-opacity:1"
+       x="8906.2402"
+       y="1860.17"
+       width="117.8"
+       height="28"
+       id="rect3769" />
+    <text
+       font-size="16px"
+       style="font-style:normal;font-weight:700;font-family:sans-serif;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
+       x="8965.1396"
+       y="1879.17"
+       id="text3771">Address</text>
+    <rect
+       style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:2;stroke-opacity:1"
+       x="8906.2402"
+       y="1888.17"
+       width="117.8"
+       height="20"
+       id="rect3773" />
+    <text
+       font-size="12.8px"
+       style="font-style:normal;font-weight:normal;font-family:monospace;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
+       x="8909.2402"
+       y="1904.5699"
+       id="text3775">+Int or String</text>
+    <rect
+       style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:2;stroke-opacity:1"
+       x="8906.2402"
+       y="1908.17"
+       width="117.8"
+       height="20"
+       id="rect3777" />
+    <text
+       font-size="12.8px"
+       style="font-style:normal;font-weight:normal;font-family:monospace;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
+       x="8909.2402"
+       y="1924.5699"
+       id="text3779">+break(): Int</text>
+  </g>
+  <g
+     id="g3787"
+     transform="translate(-12138.92,-1212.7006)">
+    <polyline
+       style="fill:none;stroke:#000000;stroke-width:2;stroke-dasharray:8;stroke-opacity:1"
+       points="9342.39,1798.07 9342.39,1831.35 9340.39,1831.35 9340.39,1865.91 "
+       id="polyline3783" />
+    <polyline
+       style="fill:none;stroke:#000000;stroke-width:2;stroke-opacity:1"
+       points="9335.39,1853.27 9340.39,1869.27 9345.39,1853.27 "
+       id="polyline3785" />
+  </g>
+  <g
+     id="g3805"
+     transform="translate(-12138.92,-1212.7006)">
+    <rect
+       style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:2;stroke-opacity:1"
+       x="7990.6401"
+       y="1867.51"
+       width="171.7"
+       height="56"
+       id="rect3789" />
+    <text
+       font-size="16px"
+       style="font-style:normal;font-weight:700;font-family:sans-serif;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
+       x="8076.4902"
+       y="1886.51"
+       id="text3791">Geometry3D</text>
+    <text
+       font-size="11.2px"
+       style="font-style:italic;font-weight:normal;font-family:sans-serif;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
+       x="8076.4902"
+       y="1902.01"
+       id="text3793">Allowed Count: 0</text>
+    <text
+       font-size="11.2px"
+       style="font-style:italic;font-weight:normal;font-family:sans-serif;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
+       x="8076.4902"
+       y="1916.01"
+       id="text3795">or 1</text>
+    <rect
+       style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:2;stroke-opacity:1"
+       x="7990.6401"
+       y="1923.51"
+       width="171.7"
+       height="20"
+       id="rect3797" />
+    <text
+       font-size="12.8px"
+       style="font-style:normal;font-weight:normal;font-family:monospace;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
+       x="7993.6401"
+       y="1939.91"
+       id="text3799">+Matrix</text>
+    <rect
+       style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:2;stroke-opacity:1"
+       x="7990.6401"
+       y="1943.51"
+       width="171.7"
+       height="20"
+       id="rect3801" />
+    <text
+       font-size="12.8px"
+       style="font-style:normal;font-weight:normal;font-family:monospace;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
+       x="7993.6401"
+       y="1959.91"
+       id="text3803">+fileName(): FileName</text>
+  </g>
+  <g
+     id="g3821"
+     transform="translate(-12138.92,-1212.7006)">
+    <rect
+       style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:2;stroke-opacity:1"
+       x="8196.0996"
+       y="1872.74"
+       width="125.5"
+       height="28"
+       id="rect3807" />
+    <text
+       font-size="16px"
+       style="font-style:normal;font-weight:700;font-family:sans-serif;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
+       x="8258.8496"
+       y="1891.74"
+       id="text3809">Symbol</text>
+    <rect
+       style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:2;stroke-opacity:1"
+       x="8196.0996"
+       y="1900.74"
+       width="125.5"
+       height="20"
+       id="rect3811" />
+    <text
+       font-size="12.8px"
+       style="font-style:normal;font-weight:normal;font-family:monospace;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
+       x="8199.0996"
+       y="1917.14"
+       id="text3813">+Matrix</text>
+    <rect
+       style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:2;stroke-opacity:1"
+       x="8196.0996"
+       y="1920.74"
+       width="125.5"
+       height="36"
+       id="rect3815" />
+    <text
+       font-size="12.8px"
+       style="font-style:normal;font-weight:normal;font-family:monospace;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
+       x="8199.0996"
+       y="1937.14"
+       id="text3817">+uuid(): UUID</text>
+    <text
+       font-size="12.8px"
+       style="font-style:normal;font-weight:normal;font-family:monospace;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
+       x="8199.0996"
+       y="1953.14"
+       id="text3819">+symdef(): UUID</text>
+  </g>
+  <g
+     id="g3837"
+     transform="translate(-12138.92,-1212.7006)">
+    <rect
+       style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:2;stroke-opacity:1"
+       x="8169.7998"
+       y="1714.0699"
+       width="113.9"
+       height="42"
+       id="rect3823" />
+    <text
+       font-size="16px"
+       style="font-style:normal;font-weight:700;font-family:sans-serif;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
+       x="8226.75"
+       y="1733.0699"
+       id="text3825">Geometries</text>
+    <text
+       font-size="11.2px"
+       style="font-style:italic;font-weight:normal;font-family:sans-serif;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
+       x="8226.75"
+       y="1748.5699"
+       id="text3827">Allowed count: 1</text>
+    <rect
+       style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:2;stroke-opacity:1"
+       x="8169.7998"
+       y="1756.0699"
+       width="113.9"
+       height="36"
+       id="rect3829" />
+    <text
+       font-size="12.8px"
+       style="font-style:normal;font-weight:normal;font-family:monospace;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
+       x="8172.7998"
+       y="1772.47"
+       id="text3831">+Geometry3D</text>
+    <text
+       font-size="12.8px"
+       style="font-style:normal;font-weight:normal;font-family:monospace;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
+       x="8172.7998"
+       y="1788.47"
+       id="text3833">+Symbol</text>
+    <rect
+       style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:2;stroke-opacity:1"
+       x="8169.7998"
+       y="1792.0699"
+       width="113.9"
+       height="8"
+       id="rect3835" />
+  </g>
+  <g
+     id="g3853"
+     transform="translate(-12138.92,-1212.7006)">
+    <rect
+       style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:2;stroke-opacity:1"
+       x="8249.5"
+       y="2022.08"
+       width="110.1"
+       height="56"
+       id="rect3839" />
+    <text
+       font-size="16px"
+       style="font-style:normal;font-weight:700;font-family:sans-serif;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
+       x="8304.5498"
+       y="2041.08"
+       id="text3841">Matrix</text>
+    <text
+       font-size="11.2px"
+       style="font-style:italic;font-weight:normal;font-family:sans-serif;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
+       x="8304.5498"
+       y="2056.5801"
+       id="text3843">Allowed count: 0</text>
+    <text
+       font-size="11.2px"
+       style="font-style:italic;font-weight:normal;font-family:sans-serif;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
+       x="8304.5498"
+       y="2070.5801"
+       id="text3845">or 1</text>
+    <rect
+       style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:2;stroke-opacity:1"
+       x="8249.5"
+       y="2078.0801"
+       width="110.1"
+       height="8"
+       id="rect3847" />
+    <rect
+       style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:2;stroke-opacity:1"
+       x="8249.5"
+       y="2086.0801"
+       width="110.1"
+       height="20"
+       id="rect3849" />
+    <text
+       font-size="12.8px"
+       style="font-style:normal;font-weight:normal;font-family:monospace;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
+       x="8252.5"
+       y="2102.48"
+       id="text3851">+3x3 Matrix()</text>
+  </g>
+  <g
+     id="g3869"
+     transform="translate(-12138.92,-1212.7006)">
+    <rect
+       style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:2;stroke-opacity:1"
+       x="8022.2598"
+       y="2020.76"
+       width="110.1"
+       height="56"
+       id="rect3855" />
+    <text
+       font-size="16px"
+       style="font-style:normal;font-weight:700;font-family:sans-serif;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
+       x="8077.3101"
+       y="2039.76"
+       id="text3857">Matrix</text>
+    <text
+       font-size="11.2px"
+       style="font-style:italic;font-weight:normal;font-family:sans-serif;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
+       x="8077.3101"
+       y="2055.26"
+       id="text3859">Allowed count: 0</text>
+    <text
+       font-size="11.2px"
+       style="font-style:italic;font-weight:normal;font-family:sans-serif;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
+       x="8077.3101"
+       y="2069.26"
+       id="text3861">or 1</text>
+    <rect
+       style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:2;stroke-opacity:1"
+       x="8022.2598"
+       y="2076.76"
+       width="110.1"
+       height="8"
+       id="rect3863" />
+    <rect
+       style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:2;stroke-opacity:1"
+       x="8022.2598"
+       y="2084.76"
+       width="110.1"
+       height="20"
+       id="rect3865" />
+    <text
+       font-size="12.8px"
+       style="font-style:normal;font-weight:normal;font-family:monospace;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
+       x="8025.2598"
+       y="2101.1599"
+       id="text3867">+3x3 Matrix()</text>
+  </g>
+  <g
+     id="g3875"
+     transform="translate(-12138.92,-1212.7006)">
+    <polyline
+       style="fill:none;stroke:#000000;stroke-width:2;stroke-dasharray:8;stroke-opacity:1"
+       points="8226.75,1801.08 8226.75,1829.79 8076.49,1829.79 8076.49,1859.8 "
+       id="polyline3871" />
+    <polyline
+       style="fill:none;stroke:#000000;stroke-width:2;stroke-opacity:1"
+       points="8071.49,1847.15 8076.49,1863.15 8081.49,1847.15 "
+       id="polyline3873" />
+  </g>
+  <g
+     id="g3881"
+     transform="translate(-12138.92,-1212.7006)">
+    <polyline
+       style="fill:none;stroke:#000000;stroke-width:2;stroke-dasharray:8;stroke-opacity:1"
+       points="8226.75,1801.08 8226.75,1832.41 8258.85,1832.41 8258.85,1865.03 "
+       id="polyline3877" />
+    <polyline
+       style="fill:none;stroke:#000000;stroke-width:2;stroke-opacity:1"
+       points="8253.85,1852.38 8258.85,1868.38 8263.85,1852.38 "
+       id="polyline3879" />
+  </g>
+  <g
+     id="g3887"
+     transform="translate(-12138.92,-1212.7006)">
+    <polyline
+       style="fill:none;stroke:#000000;stroke-width:2;stroke-dasharray:8;stroke-opacity:1"
+       points="8076.49,1964.52 8076.49,1988.14 8077.31,1988.14 8077.31,2013.05 "
+       id="polyline3883" />
+    <polyline
+       style="fill:none;stroke:#000000;stroke-width:2;stroke-opacity:1"
+       points="8072.31,2000.4 8077.31,2016.4 8082.31,2000.4 "
+       id="polyline3885" />
+  </g>
+  <g
+     id="g3893"
+     transform="translate(-12138.92,-1212.7006)">
+    <polyline
+       style="fill:none;stroke:#000000;stroke-width:2;stroke-dasharray:8;stroke-opacity:1"
+       points="8258.85,1957.74 8258.85,1985.41 8304.55,1985.41 8304.55,2014.37 "
+       id="polyline3889" />
+    <polyline
+       style="fill:none;stroke:#000000;stroke-width:2;stroke-opacity:1"
+       points="8299.55,2001.72 8304.55,2017.72 8309.55,2001.72 "
+       id="polyline3891" />
+  </g>
+  <g
+     id="g3899"
+     transform="translate(-12138.92,-1212.7006)">
+    <polyline
+       style="fill:none;stroke:#000000;stroke-width:2;stroke-dasharray:8;stroke-opacity:1"
+       points="8969.23,1799.08 8969.23,1825.12 8965.14,1825.12 8965.14,1852.46 "
+       id="polyline3895" />
+    <polyline
+       style="fill:none;stroke:#000000;stroke-width:2;stroke-opacity:1"
+       points="8960.14,1839.81 8965.14,1855.81 8970.14,1839.81 "
+       id="polyline3897" />
+  </g>
+  <g
+     id="g3905"
+     transform="translate(-12138.92,-1212.7006)">
+    <polyline
+       style="fill:none;stroke:#000000;stroke-width:2;stroke-dasharray:8;stroke-opacity:1"
+       points="9135.61,1799.08 9135.61,1826.02 9140.64,1826.02 9140.64,1854.25 "
+       id="polyline3901" />
+    <polyline
+       style="fill:none;stroke:#000000;stroke-width:2;stroke-opacity:1"
+       points="9135.64,1841.6 9140.64,1857.6 9145.64,1841.6 "
+       id="polyline3903" />
+  </g>
+  <g
+     id="g3911"
+     transform="translate(-12138.92,-1212.7006)">
+    <polyline
+       style="fill:none;stroke:#000000;stroke-width:2;stroke-dasharray:8;stroke-opacity:1"
+       points="9545.84,1799.08 9545.84,1827.37 9553.82,1827.37 9553.82,1856.96 "
+       id="polyline3907" />
+    <polyline
+       style="fill:none;stroke:#000000;stroke-width:2;stroke-opacity:1"
+       points="9548.82,1844.31 9553.82,1860.31 9558.82,1844.31 "
+       id="polyline3909" />
+  </g>
+  <g
+     id="g3917"
+     transform="translate(-12138.92,-1212.7006)">
+    <polyline
+       style="fill:none;stroke:#000000;stroke-width:2;stroke-dasharray:8;stroke-opacity:1"
+       points="9744.6,1769.54 9744.6,1809.97 9748.13,1809.97 9748.13,1851.7 "
+       id="polyline3913" />
+    <polyline
+       style="fill:none;stroke:#000000;stroke-width:2;stroke-opacity:1"
+       points="9743.13,1839.05 9748.13,1855.05 9753.13,1839.05 "
+       id="polyline3915" />
+  </g>
+  <g
+     id="g3923"
+     transform="translate(-12138.92,-1212.7006)">
+    <polyline
+       style="fill:none;stroke:#000000;stroke-width:2;stroke-dasharray:8;stroke-opacity:1"
+       points="8541.55,1566.08 8541.55,1635.58 7927.97,1635.58 7927.97,1706.36 "
+       id="polyline3919" />
+    <polyline
+       style="fill:none;stroke:#000000;stroke-width:2;stroke-opacity:1"
+       points="7922.97,1693.72 7927.97,1709.72 7932.97,1693.72 "
+       id="polyline3921" />
+  </g>
+  <g
+     id="g3929"
+     transform="translate(-12138.92,-1212.7006)">
+    <polyline
+       style="fill:none;stroke:#000000;stroke-width:2;stroke-dasharray:8;stroke-opacity:1"
+       points="8541.55,1566.08 8541.55,1636.08 8056.43,1636.08 8056.43,1707.37 "
+       id="polyline3925" />
+    <polyline
+       style="fill:none;stroke:#000000;stroke-width:2;stroke-opacity:1"
+       points="8051.43,1694.72 8056.43,1710.72 8061.43,1694.72 "
+       id="polyline3927" />
+  </g>
+  <g
+     id="g3935"
+     transform="translate(-12138.92,-1212.7006)">
+    <polyline
+       style="fill:none;stroke:#000000;stroke-width:2;stroke-dasharray:8;stroke-opacity:1"
+       points="8541.55,1566.08 8541.55,1635.58 8226.75,1635.58 8226.75,1706.36 "
+       id="polyline3931" />
+    <polyline
+       style="fill:none;stroke:#000000;stroke-width:2;stroke-opacity:1"
+       points="8221.75,1693.72 8226.75,1709.72 8231.75,1693.72 "
+       id="polyline3933" />
+  </g>
+  <g
+     id="g3941"
+     transform="translate(-12138.92,-1212.7006)">
+    <polyline
+       style="fill:none;stroke:#000000;stroke-width:2;stroke-dasharray:8;stroke-opacity:1"
+       points="8541.55,1566.08 8541.55,1631.55 8478.08,1631.55 8478.08,1698.31 "
+       id="polyline3937" />
+    <polyline
+       style="fill:none;stroke:#000000;stroke-width:2;stroke-opacity:1"
+       points="8473.08,1685.66 8478.08,1701.66 8483.08,1685.66 "
+       id="polyline3939" />
+  </g>
+  <g
+     id="g3947"
+     transform="translate(-12138.92,-1212.7006)">
+    <polyline
+       style="fill:none;stroke:#000000;stroke-width:2;stroke-dasharray:8;stroke-opacity:1"
+       points="8541.55,1566.08 8541.55,1635.58 8690.89,1635.58 8690.89,1706.36 "
+       id="polyline3943" />
+    <polyline
+       style="fill:none;stroke:#000000;stroke-width:2;stroke-opacity:1"
+       points="8685.89,1693.72 8690.89,1709.72 8695.89,1693.72 "
+       id="polyline3945" />
+  </g>
+  <g
+     id="g3953"
+     transform="translate(-12138.92,-1212.7006)">
+    <polyline
+       style="fill:none;stroke:#000000;stroke-width:2;stroke-dasharray:8;stroke-opacity:1"
+       points="8541.55,1566.08 8541.55,1635.57 8830.35,1635.57 8830.35,1706.36 "
+       id="polyline3949" />
+    <polyline
+       style="fill:none;stroke:#000000;stroke-width:2;stroke-opacity:1"
+       points="8825.35,1693.71 8830.35,1709.71 8835.35,1693.71 "
+       id="polyline3951" />
+  </g>
+  <g
+     id="g3959"
+     transform="translate(-12138.92,-1212.7006)">
+    <polyline
+       style="fill:none;stroke:#000000;stroke-width:2;stroke-dasharray:8;stroke-opacity:1"
+       points="8541.55,1566.08 8541.55,1635.58 9135.61,1635.58 9135.61,1706.36 "
+       id="polyline3955" />
+    <polyline
+       style="fill:none;stroke:#000000;stroke-width:2;stroke-opacity:1"
+       points="9130.61,1693.72 9135.61,1709.72 9140.61,1693.72 "
+       id="polyline3957" />
+  </g>
+  <g
+     id="g3965"
+     transform="translate(-12138.92,-1212.7006)">
+    <polyline
+       style="fill:none;stroke:#000000;stroke-width:2;stroke-dasharray:8;stroke-opacity:1"
+       points="8541.55,1566.08 8541.55,1635.58 8969.23,1635.58 8969.23,1706.36 "
+       id="polyline3961" />
+    <polyline
+       style="fill:none;stroke:#000000;stroke-width:2;stroke-opacity:1"
+       points="8964.23,1693.72 8969.23,1709.72 8974.23,1693.72 "
+       id="polyline3963" />
+  </g>
+  <g
+     id="g3971"
+     transform="translate(-12138.92,-1212.7006)">
+    <polyline
+       style="fill:none;stroke:#000000;stroke-width:2;stroke-dasharray:8;stroke-opacity:1"
+       points="8541.55,1566.08 8541.55,1635.58 9342.39,1635.58 9342.39,1706.36 "
+       id="polyline3967" />
+    <polyline
+       style="fill:none;stroke:#000000;stroke-width:2;stroke-opacity:1"
+       points="9337.39,1693.72 9342.39,1709.72 9347.39,1693.72 "
+       id="polyline3969" />
+  </g>
+  <g
+     id="g3977"
+     transform="translate(-12138.92,-1212.7006)">
+    <polyline
+       style="fill:none;stroke:#000000;stroke-width:2;stroke-dasharray:8;stroke-opacity:1"
+       points="8541.55,1566.08 8541.55,1635.58 9545.84,1635.58 9545.84,1706.36 "
+       id="polyline3973" />
+    <polyline
+       style="fill:none;stroke:#000000;stroke-width:2;stroke-opacity:1"
+       points="9540.84,1693.72 9545.84,1709.72 9550.84,1693.72 "
+       id="polyline3975" />
+  </g>
+  <g
+     id="g3983"
+     transform="translate(-12138.92,-1212.7006)">
+    <polyline
+       style="fill:none;stroke:#000000;stroke-width:2;stroke-dasharray:8;stroke-opacity:1"
+       points="8541.55,1566.08 8541.55,1634.8 9744.6,1634.8 9744.6,1704.82 "
+       id="polyline3979" />
+    <polyline
+       style="fill:none;stroke:#000000;stroke-width:2;stroke-opacity:1"
+       points="9739.6,1692.17 9744.6,1708.17 9749.6,1692.17 "
+       id="polyline3981" />
+  </g>
+</svg>

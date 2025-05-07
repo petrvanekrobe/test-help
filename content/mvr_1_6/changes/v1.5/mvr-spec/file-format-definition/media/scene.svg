@@ -1,0 +1,221 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="269.77573mm"
+   height="116.06451mm"
+   viewBox="0 0 269.77573 116.06452"
+   version="1.1"
+   id="svg8407"
+   inkscape:version="1.2.2 (b0a8486541, 2022-12-01)"
+   sodipodi:docname="scene.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview8409"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="0.84096521"
+     inkscape:cx="22.593087"
+     inkscape:cy="-64.806486"
+     inkscape:window-width="1920"
+     inkscape:window-height="1035"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs8404" />
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-222.67397,-188.82076)">
+    <g
+       id="g49"
+       transform="matrix(0.50046144,0,0,0.50046144,81.747039,100.73604)">
+      <rect
+         style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:2;stroke-opacity:1"
+         x="282.59399"
+         y="199.452"
+         width="105.1"
+         height="42"
+         id="rect35" />
+      <text
+         font-size="16px"
+         style="font-style:normal;font-weight:700;font-family:sans-serif;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
+         x="335.14401"
+         y="218.452"
+         id="text37">Scene</text>
+      <text
+         font-size="11.2px"
+         style="font-style:italic;font-weight:normal;font-family:sans-serif;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
+         x="335.14401"
+         y="233.952"
+         id="text39">Allowed Count: 1</text>
+      <rect
+         style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:2;stroke-opacity:1"
+         x="282.59399"
+         y="241.452"
+         width="105.1"
+         height="36"
+         id="rect41" />
+      <text
+         font-size="12.8px"
+         style="font-style:normal;font-weight:normal;font-family:monospace;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
+         x="285.59399"
+         y="257.85199"
+         id="text43">+Layers</text>
+      <text
+         font-size="12.8px"
+         style="font-style:normal;font-weight:normal;font-family:monospace;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
+         x="285.59399"
+         y="273.85199"
+         id="text45">+AUXData</text>
+      <rect
+         style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:2;stroke-opacity:1"
+         x="282.59399"
+         y="277.452"
+         width="105.1"
+         height="8"
+         id="rect47" />
+    </g>
+    <g
+       id="g127"
+       transform="matrix(0.50046144,0,0,0.50046144,81.747039,100.73604)">
+      <polyline
+         style="fill:none;stroke:#000000;stroke-width:2;stroke-dasharray:8;stroke-opacity:1"
+         points="335.144,286.458 335.144,314.186 333.304,314.186 333.304,343.21 "
+         id="polyline123" />
+      <polyline
+         style="fill:none;stroke:#000000;stroke-width:2;stroke-opacity:1"
+         points="328.304,330.562 333.304,346.562 338.304,330.562 "
+         id="polyline125" />
+    </g>
+    <g
+       id="g271"
+       transform="matrix(0.50046144,0,0,0.50046144,81.747039,100.73604)">
+      <rect
+         style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:2;stroke-opacity:1"
+         x="671.04797"
+         y="177.007"
+         width="148.60001"
+         height="56"
+         id="rect251" />
+      <text
+         font-size="16px"
+         style="font-style:normal;font-weight:700;font-family:sans-serif;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
+         x="745.34802"
+         y="196.007"
+         id="text253">AUXData</text>
+      <text
+         font-size="11.2px"
+         style="font-style:italic;font-weight:normal;font-family:sans-serif;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
+         x="745.34802"
+         y="211.507"
+         id="text255">Allowed Count: 0</text>
+      <text
+         font-size="11.2px"
+         style="font-style:italic;font-weight:normal;font-family:sans-serif;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
+         x="745.34802"
+         y="225.507"
+         id="text257">or 1</text>
+      <rect
+         style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:2;stroke-opacity:1"
+         x="671.04797"
+         y="233.007"
+         width="148.60001"
+         height="68"
+         id="rect259" />
+      <text
+         font-size="12.8px"
+         style="font-style:normal;font-weight:normal;font-family:monospace;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
+         x="674.04797"
+         y="249.407"
+         id="text261">+Symdef</text>
+      <text
+         font-size="12.8px"
+         style="font-style:normal;font-weight:normal;font-family:monospace;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
+         x="674.04797"
+         y="265.40701"
+         id="text263">+Position</text>
+      <text
+         font-size="12.8px"
+         style="font-style:normal;font-weight:normal;font-family:monospace;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
+         x="674.04797"
+         y="281.40701"
+         id="text265">+MappingDefinition</text>
+      <text
+         font-size="12.8px"
+         style="font-style:normal;font-weight:normal;font-family:monospace;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
+         x="674.04797"
+         y="297.40701"
+         id="text267">+Class</text>
+      <rect
+         style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:2;stroke-opacity:1"
+         x="671.04797"
+         y="301.00699"
+         width="148.60001"
+         height="8"
+         id="rect269" />
+    </g>
+    <g
+       id="g277"
+       transform="matrix(0.50046144,0,0,0.50046144,81.747039,100.73604)">
+      <polyline
+         style="fill:none;stroke:#000000;stroke-width:2;stroke-dasharray:8;stroke-opacity:1"
+         points="388.701,242.452 525.37,242.452 525.37,243.007 663.334,243.007 "
+         id="polyline273" />
+      <polyline
+         style="fill:none;stroke:#000000;stroke-width:2;stroke-opacity:1"
+         points="650.686,248.007 666.686,243.007 650.686,238.007 "
+         id="polyline275" />
+    </g>
+    <g
+       id="g1155"
+       transform="matrix(0.50046144,0,0,0.50046144,81.747039,100.73604)">
+      <rect
+         style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:2;stroke-opacity:1"
+         x="298.70401"
+         y="350.922"
+         width="69.199997"
+         height="28"
+         id="rect1145" />
+      <text
+         font-size="16px"
+         style="font-style:normal;font-weight:700;font-family:sans-serif;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
+         x="333.30399"
+         y="369.922"
+         id="text1147">Layers</text>
+      <rect
+         style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:2;stroke-opacity:1"
+         x="298.70401"
+         y="378.922"
+         width="69.199997"
+         height="20"
+         id="rect1149" />
+      <text
+         font-size="12.8px"
+         style="font-style:normal;font-weight:normal;font-family:monospace;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
+         x="301.70401"
+         y="395.32199"
+         id="text1151">+Layer</text>
+      <rect
+         style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:2;stroke-opacity:1"
+         x="298.70401"
+         y="398.922"
+         width="69.199997"
+         height="8"
+         id="rect1153" />
+    </g>
+  </g>
+</svg>
