@@ -1,0 +1,20 @@
+@import "theme-zen-light.css";
+
+:root {
+  --MENU-HEADER-BG-color: rgba(0, 15, 63, 1); /* background color of menu header */
+  --ACCENT-color:  var(--INTERNAL-BOX-BLUE-color); /* brand accent color, used for search highlights */
+--INTERNAL-BOX-CAUTION-color: var(--BOX-CAUTION-color, var(--INTERNAL-BOX-BLUE-color));
+--INTERNAL-BOX-INFO-color: var(--BOX-INFO-color, var(--INTERNAL-BOX-BLUE-color));
+--INTERNAL-BOX-IMPORTANT-color: var(--BOX-IMPORTANT-color, var(--INTERNAL-BOX-BLUE-color));
+--INTERNAL-BOX-NEUTRAL-color: var(--BOX-NEUTRAL-color, var(--INTERNAL-BOX-BLUE-color));
+--INTERNAL-BOX-NOTE-color: var(--BOX-NOTE-color, var(--INTERNAL-BOX-BLUE-color));
+--INTERNAL-BOX-TIP-color: var(--BOX-TIP-color, var(--INTERNAL-BOX-BLUE-color));
+--INTERNAL-BOX-WARNING-color: var(--BOX-WARNING-color, var(--INTERNAL-BOX-BLUE-color));
+}
+.logo-title{
+    color: gray
+}
+
+.inline{
+    display: inline-block!important
+}

@@ -1,0 +1,21 @@
+  {{- $u := urls.Parse (.Get "src") -}}
+  {{- $src := $u.String -}}
+  {{- if not $u.IsAbs -}}
+    {{- with or (.Page.Resources.Get $u.Path) (resources.Get $u.Path) -}}
+      {{- $src = .RelPermalink -}}
+    {{- end -}}
+  {{- end -}}
+  <img src="{{ $src }}"
+    {{- if (.Get "class") }}
+    {{ with .Get "class" }} class="{{ . }}"{{ end }}
+    {{- else}}
+    class="inline"
+    {{- end -}}
+    {{- if or (.Get "alt") (.Get "caption") }}
+    alt="{{ with .Get "alt" }}{{ . }}{{ else }}{{ .Get "caption" | markdownify| plainify }}{{ end }}"
+    title="{{ with .Get "alt" }}{{ . }}{{ else }}{{ .Get "caption" | markdownify| plainify }}{{ end }}"
+    {{- end -}}
+    {{- with .Get "width" }} width="{{ . }}"{{ end -}}
+    {{- with .Get "height" }} height="{{ . }}"{{ end -}}
+    {{- with .Get "loading" }} loading="{{ . }}"{{ end -}}
+  >
