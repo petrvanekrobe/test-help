@@ -1,0 +1,10 @@
+functions
+node_modules
+public
+public/
+resources
+.hugo_build.lock
+bundle.js.map
+bundle.css.map
+tmp/
+.netlify/
