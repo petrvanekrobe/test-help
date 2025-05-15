@@ -12,6 +12,7 @@ weight: 60
 ## Positioning, orientation and rotation in GDTF
 
 Before you define any physical attributes, you have to make sure to understand how positioning, rotation and orientation is defined in GDTF.
+Make this better.
 
 **3D space definition**
 
